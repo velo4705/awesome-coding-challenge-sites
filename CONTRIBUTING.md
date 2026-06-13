@@ -25,6 +25,7 @@ Example:
 
 ## Rules
 
+- Sites should not have any paywalls upon Sign-up. This ensures the collection stays on Free or Trial Tier.
 - Sites within each category are **sorted by approximate popularity** (most popular first).
 - Place new entries in the most appropriate category:
   - **Algorithms & Interview Prep** — data structures, algorithms, interview practice
