@@ -11,42 +11,45 @@ Thanks for your interest in contributing! This is a curated list of coding chall
 
 ## Entry Format
 
-Every entry follows this exact pattern:
+Every entry follows this pattern:
 
 ```
-<rank>. **[SiteName](<url>)** - <Short description>. <2-3 sentences of detail>. <Target audience/tagline>.
+- [SiteName](url) <flag> - Description in 1-2 sentences.
 ```
+
+Add a **country flag emoji** for sites based outside the US. Keep descriptions concise — no tips, no difficulty markers, no bold around the link.
 
 Example:
 
 ```
-1. **[LeetCode](https://leetcode.com/)** - A platform for practicing coding problems and preparing for technical interviews. Offers a vast library of algorithm and data structure questions, mock interviews, and a built-in IDE. Ideal for software engineers preparing for FAANG interviews.
+- [LeetCode](https://leetcode.com) - The go-to platform for interview prep, with thousands of problems ranging from easy to hard. Companies practically borrow from its problem bank when interviewing you.
+- [CodeForces](https://codeforces.com) 🇷🇺 - The heavyweight of competitive programming, hosting regular contests with tough algorithmic problems. Known for its fast-paced rounds and strong community.
 ```
 
 ## Rules
 
-- Sites should not have any paywalls upon Sign-up. This ensures the collection stays on Free or Trial Tier.
+- All listed sites are **free to use** upon sign-up. No paywalled sites included.
 - Sites within each category are **sorted by approximate popularity** (most popular first).
 - Place new entries in the most appropriate category:
-  - **Algorithms & Interview Prep** — data structures, algorithms, interview practice
+  - **Algorithms and Interview Prep** — data structures, algorithms, interview practice
   - **Competitive Programming** — contest-hosting platforms and online judges
-  - **Full-Stack & Web Development** — courses and tutorials for web skills
+  - **Full-Stack and Web Development** — courses and tutorials for web skills
   - **Frontend Development** — UI/CSS/JS-specific challenges
-  - **Language & Niche Practice** — language-specific, domain-specific, or creative coding
-  - **Data Science & Machine Learning** — ML, data analysis, data science interviews
-  - **CTF & Security Platforms** — cybersecurity, capture the flag, cryptography
+  - **Language and Niche Practice** — language-specific, domain-specific, or creative coding
+  - **Data Science and Machine Learning** — ML, data analysis, data science interviews
+  - **CTF and Security Platforms** — cybersecurity, capture the flag, cryptography
   - **Additional Resources** — contest trackers and aggregators
-- Descriptions must be **objective, informative, and concise**.
+- Descriptions must be **objective, informative, and concise** — no more than 2 sentences.
 - Ensure links are **HTTPS**, **active**, and **not malicious**.
 - Use **direct URLs** — no tracking parameters or link shorteners.
 - Check the existing list to avoid **duplicates**.
 
 ## Pull Request Guidelines
 
-- Keep changes focused — one site addition/update per PR is fine.
+- Keep changes focused — one site addition per PR is fine.
 - Verify the site is still live before submitting.
 - Use an imperative commit style, e.g.:
-  - `Add Exercism to Language & Niche Practice`
+  - `Add Exercism to Language and Niche Practice`
   - `Update description for CodeWars`
   - `Fix broken link for HackerRank`
 
