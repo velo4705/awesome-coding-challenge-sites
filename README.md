@@ -1,6 +1,6 @@
 # Awesome Coding Challenge Sites [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> ⏰ **Last verified: July 15, 2026** - Verified across 86 sites.
+> ⏰ **Last verified: July 17, 2026** - Verified across 86 sites.
 
 Coding challenge sites help you **sharpen your problem-solving skills**, **prepare for technical interviews**, and **compete with programmers worldwide**. Whether you are a beginner learning your first language or an experienced engineer targeting FAANG, there is a platform for you.
 
