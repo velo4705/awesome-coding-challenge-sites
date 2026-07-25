@@ -1,7 +1,5 @@
 # Awesome Coding Challenge Sites [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> ⏰ **Last verified: July 23, 2026** - Verified across 86 sites.
-
 Coding challenge sites help you **sharpen your problem-solving skills**, **prepare for technical interviews**, and **compete with programmers worldwide**. Whether you are a beginner learning your first language or an experienced engineer targeting FAANG, there is a platform for you.
 
 CTF platforms let you **test your cybersecurity skills** through real-world scenarios, while **interviewing resources** bridge the gap between practice and landing the job.
@@ -22,6 +20,8 @@ Every site listed here is **verified safe** and organized by **skill level** so 
 ## Algorithms and Interview Prep
 
 Sites focused on data structures, algorithms, and technical interview preparation.
+
+> **Verified:** July 2026
 
 - [LeetCode](https://leetcode.com) - The go-to platform for interview prep, with thousands of problems ranging from easy to hard. Companies practically borrow from its problem bank when interviewing you.
 
@@ -64,6 +64,8 @@ Sites focused on data structures, algorithms, and technical interview preparatio
 ## Competitive Programming
 
 Platforms that host regular contests and competitions for algorithmic problem-solving.
+
+> **Verified:** July 2026
 
 - [CodeForces](https://codeforces.com) 🇷🇺 - The heavyweight of competitive programming, hosting regular contests with tough algorithmic problems. Known for its fast-paced rounds and strong community.
 
@@ -113,6 +115,8 @@ Platforms that host regular contests and competitions for algorithmic problem-so
 
 Interactive courses and tutorials for building web development skills.
 
+> **Verified:** July 2026
+
 - [FreeCodeCamp](https://www.freecodecamp.org) - A completely free full-stack curriculum with coding challenges and projects to build your portfolio. Self-paced and covers everything from HTML to data science.
 
 - [W3Schools](https://www.w3schools.com) 🇳🇴 - The classic reference for web development, covering HTML, CSS, JavaScript, SQL, and more. Best used as a quick reference rather than a deep dive.
@@ -135,6 +139,8 @@ Interactive courses and tutorials for building web development skills.
 
 Frontend-specific challenges and practice for honing UI and design skills.
 
+> **Verified:** July 2026
+
 - [FrontendMentor](https://www.frontendmentor.io) 🇬🇧 - Real-world design-to-code challenges at increasing difficulty levels. Build something from scratch, then compare your solution with others.
 
 - [CodePen](https://codepen.io) - A playground for experimenting with HTML, CSS, and JavaScript. Great for prototyping ideas and building a collection of frontend experiments.
@@ -150,6 +156,8 @@ Frontend-specific challenges and practice for honing UI and design skills.
 ## Language and Niche Practice
 
 Platforms focused on specific languages, domains, or creative coding approaches.
+
+> **Verified:** July 2026
 
 - [CodeWars](https://www.codewars.com) 🇬🇧 - Solve kata-ranked challenges in dozens of languages, leveling up as you go. Great for learning new languages through structured repetition.
 
@@ -191,6 +199,10 @@ Platforms focused on specific languages, domains, or creative coding approaches.
 
 ## Data Science and Machine Learning
 
+Platforms for data science competitions, practice problems, and interview preparation.
+
+> **Verified:** July 2026
+
 - [Kaggle](https://www.kaggle.com) - The heart of the data science community, with competitions, datasets, and courses all in one place. Start with the "Getting Started" competitions before jumping into the real ones.
 
 - [StrataScratch](https://www.stratascratch.com) - Real interview questions from actual data science companies. Filter by company to practice exactly what you'll be asked.
@@ -200,6 +212,8 @@ Platforms focused on specific languages, domains, or creative coding approaches.
 ## CTF and Security Platforms
 
 CTF (Capture The Flag) sites are used for practicing cybersecurity skills and solving challenges.
+
+> **Verified:** July 2026
 
 - [TryHackMe](https://tryhackme.com) 🇬🇧 - Guided hacking labs that walk you through rooms step by step. The "Pre Security" path is a great on-ramp if you're new to security.
 
@@ -224,6 +238,8 @@ CTF (Capture The Flag) sites are used for practicing cybersecurity skills and so
 ## Additional Resources
 
 Contest trackers and aggregators to find more problems and competitions.
+
+> **Verified:** July 2026
 
 - [Clist.by](https://clist.by) 🇧🇾 - Aggregates coding contests from across the web so you never miss one. Use filters to find contests matching your skill level.
 
