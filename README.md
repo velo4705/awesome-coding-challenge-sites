@@ -60,7 +60,8 @@ Sites focused on data structures, algorithms, and technical interview preparatio
 - [NaukriCode360](https://code360.naukri.com) 🇮🇳 - Popular in India for placement preparation, with problems, articles, and interview experiences. Good companion to LeetCode for Indian job seekers.
 
 - [Codemia](https://codemia.io) - AI-powered system design practice with visualizations and peer mock interviews. Built for engineers targeting FAANG-level system design rounds.
-- [InterviewLegend](https://interviewlegend.com) - company-specific interview prep across coding, system design, and behavioral rounds
+
+- [InterviewLegend](https://interviewlegend.com) - Company-specific interview prep across coding, system design, and behavioral rounds.
 
 ## Competitive Programming
 
