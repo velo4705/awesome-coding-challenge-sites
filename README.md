@@ -189,6 +189,8 @@ Platforms focused on specific languages, domains, or creative coding approaches.
 
 - [Vim Adventures](https://vim-adventures.com) - Learn Vim navigation through an adventure game. Play through the levels and you'll pick up Vim commands naturally.
 
+- [Codolymp](https://codolymp.ru/catalog) 🇷🇺 - Free Russian-language Python 3 problems with a browser editor and automatic checking. Students can practice without creating an account.
+
 ## Data Science and Machine Learning
 
 Platforms for data science competitions, practice problems, and interview preparation.
