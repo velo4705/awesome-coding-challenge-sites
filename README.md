@@ -61,6 +61,8 @@ Sites focused on data structures, algorithms, and technical interview preparatio
 
 - [InterviewLegend](https://interviewlegend.com) - Company-specific interview prep across coding, system design, and behavioral rounds.
 
+- [FunAudioChat](https://funaudiochat.org/) 🇭🇰 - Free written English practice for three technical-role interview questions, covering introductions, personal contributions, and trade-offs. Includes simple keyword hints, a self-review checklist, and repeat attempts; no account required.
+
 ## Competitive Programming
 
 Platforms that host regular contests and competitions for algorithmic problem-solving.
