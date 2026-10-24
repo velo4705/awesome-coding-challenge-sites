@@ -29,7 +29,7 @@ Example:
 ## Rules
 
 - All listed sites are **free to use** upon sign-up. No paywalled sites included.
-- Sites within each category are **sorted by approximate popularity** (most popular first).
+- Sites within each category are **ordered chronologically** (newest additions at the bottom).
 - Place new entries in the most appropriate category:
   - **Algorithms and Interview Prep** — data structures, algorithms, interview practice
   - **Competitive Programming** — contest-hosting platforms and online judges
@@ -47,6 +47,7 @@ Example:
 ## Pull Request Guidelines
 
 - Keep changes focused — one site addition per PR is fine.
+- Provide enough context in your PR description explaining the platform's core features, target audience, and why it fits your chosen category.
 - Verify the site is still live before submitting.
 - Use an imperative commit style, e.g.:
   - `Add Exercism to Language and Niche Practice`
